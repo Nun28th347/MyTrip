@@ -167,6 +167,13 @@ footer {
     top: -16rem;
 }
 
+.para1lann{
+    text-align: justify;
+    width: 65%;
+    position: relative;
+    top: -12rem;
+}
+
 hr{
     margin: 10px;
 }
